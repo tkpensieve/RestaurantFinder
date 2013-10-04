@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Recommendation SYSTEM "../Dtds/recommendation.dtd">
+<Recommendation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.example.org/RestaurantFinder" xsi:noNamespaceSchemaLocation="recommendation.xsd">	
+	<UserId>2</UserId>
+	<UserId>2</UserId>
+    <RestaurantId>1</RestaurantId>
+</Recommendation>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE User SYSTEM "../Dtds/user.dtd">
+<User>	
+	<UserName>Alice</UserName>
+	<Email>alice.1111@gmail.com</Email>
+	<Phone>614-596-2353</Phone>
+</User>

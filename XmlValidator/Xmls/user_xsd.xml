@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE User SYSTEM "../Dtds/user.dtd">
+<User xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.example.org/RestaurantFinder" xsi:noNamespaceSchemaLocation="user.xsd">	
+	<UserName>Alice</UserName>
+	<Email>alice.1111@gmail.com</Email>
+	<Phone>614-596-2353</Phone>
+</User>

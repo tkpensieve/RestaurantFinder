@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT Restaurant (RestaurantName,Cuisine,Location,Rating)>
+<!ELEMENT RestaurantName (#PCDATA)>
+<!ELEMENT Cuisine (#PCDATA)>
+<!ELEMENT Location (#PCDATA)>
+<!ELEMENT Rating (#PCDATA)>

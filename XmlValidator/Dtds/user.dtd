@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT User (UserName,Email,Phone)>
+<!ELEMENT UserName (#PCDATA)>
+<!ELEMENT Email (#PCDATA)>
+<!ELEMENT Phone (#PCDATA)>

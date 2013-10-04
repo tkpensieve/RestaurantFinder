@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Recommendation SYSTEM "../Dtds/recommendation.dtd">
+<Recommendation>	
+	<UserId>2</UserId>
+    <RestaurantId>1</RestaurantId>
+</Recommendation>

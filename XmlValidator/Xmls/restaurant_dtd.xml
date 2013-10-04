@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Restaurant SYSTEM "../Dtds/restaurant.dtd">
+<Restaurant>	
+	<RestaurantName>XYZ</RestaurantName>
+	<Cuisine>Mexican</Cuisine>
+	<Location>Arlington</Location>
+   	<Rating>5</Rating>
+</Restaurant>

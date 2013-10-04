@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema targetNamespace="http://www.example.org/RestaurantFinder" attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns="http://www.w3.org/2001/XMLSchema">
+<element name="Restaurant">
+	<complexType>
+		<sequence>
+			<element name="RestaurantName" minOccurs="1" maxOccurs="1" type="string"></element>
+			<element name="Cuisine" minOccurs="1" maxOccurs="1" type="string"></element>
+			<element name="Location" minOccurs="1" maxOccurs="1" type="string"></element>
+			<element name="Rating" minOccurs="1" maxOccurs="1" type="integer"></element>
+		</sequence>
+	</complexType>
+</element>
+</schema>

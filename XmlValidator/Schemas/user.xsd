@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema targetNamespace="http://www.example.org/RestaurantFinder" attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns="http://www.w3.org/2001/XMLSchema">
+<element name="User">
+	<complexType>
+		<sequence>
+			<element name="UserName" minOccurs="1" maxOccurs="1" type="string"></element>
+			<element name="Email " minOccurs="1" maxOccurs="1" type="string"></element>
+			<element name="Phone" minOccurs="0" maxOccurs="1" type="string"></element>
+		</sequence>
+	</complexType>
+</element>
+</schema>

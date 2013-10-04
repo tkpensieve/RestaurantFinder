@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Restaurant SYSTEM "../Dtds/restaurant.dtd">
+<Restaurant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.example.org/RestaurantFinder" xsi:noNamespaceSchemaLocation="restaurant.xsd">	
+	<RestaurantName>XYZ</RestaurantName>
+	<Cuisine>Mexican</Cuisine>
+	<Location>Arlington</Location>
+   	<Rating>5</Rating>
+</Restaurant>
